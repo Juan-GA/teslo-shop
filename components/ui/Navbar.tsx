@@ -36,7 +36,7 @@ export const Navbar = () => {
                 className='fadeIn'>
                 <NextLink href='/category/men' passHref>
                     <Link>
-                        <Button color={ asPath === '/category/men' ? 'primary' : 'info' }>Honbres</Button>
+                        <Button color={ asPath === '/category/men' ? 'primary' : 'info' }>Hombres</Button>
                     </Link>
                 </NextLink>
 
